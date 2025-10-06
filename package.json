@@ -1,0 +1,22 @@
+{
+  "name": "linux-documents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sezlay/linux-documents.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sezlay/linux-documents/issues"
+  },
+  "homepage": "https://github.com/sezlay/linux-documents#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.7.0"
+  }
+}
